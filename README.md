@@ -40,7 +40,9 @@ Importante tener instalado el SDK 6.0.417 y los paquetes arriba mencionados.
 <br>
 # Author RobARC
 
-<li> WebSide <a>https://robarc.github.io</a> </li>
+- Website - [Roberth Rondón](https://robarc.github.io/)
+- LinkedIn - [Roberth Rondón](https://www.linkedin.com/in/roberth-rondon/)
+- Twitter - [@rrondonc](https://twitter.com/rrondonc)
 
 
 
